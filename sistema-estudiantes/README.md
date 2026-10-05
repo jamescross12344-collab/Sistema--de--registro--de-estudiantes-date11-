@@ -41,6 +41,10 @@ powershell python sistema_estudiantes.py
 - [x] Evidencia del funcionamiento 
 - [ ] Validación de datos 
 - [ ] Mejorar la interfaz 
+## Próximas mejoras  
+- Validar datos ingresados. 
+- Agregar almacenamiento de estudiantes. 
+- Mejorar la presentación del sistema. 
 ## Autor 
 Nombre: JAIME PABLO CRUZ AGUIRRE 
 
